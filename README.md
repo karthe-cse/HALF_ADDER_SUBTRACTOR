@@ -51,15 +51,17 @@ Figure -02 HALF Subtractor
 **Program:**
 
 /* Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
+```
 // Logic equations
 assign sum   = a ^ b;   // XOR for sum
 assign carry = a & b;   // AND for carry
-
+```
+```
 // Logic equations
 assign sum   = a ^ b ^ cin;                  // XOR for sum
 assign carry = (a & b) | (b & cin) | (a & cin); // Majority function for carry
 Developed by: Kartheeshwar D J 25017571
-
+```
 **RTL Schematic**
 
 **Output/TIMING Waveform**
