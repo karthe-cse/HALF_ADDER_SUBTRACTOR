@@ -68,6 +68,7 @@ Developed by: Kartheeshwar D J 25017571
 <img width="856" height="508" alt="Screenshot 2025-12-10 192541" src="https://github.com/user-attachments/assets/ffb3df81-3bb8-4c1b-8b78-b04c1976b3f0" />
 <img width="1025" height="385" alt="Screenshot 2025-12-10 192551" src="https://github.com/user-attachments/assets/a7728953-c29f-4770-b435-4e6b4a6ecca7" />
 <img width="657" height="245" alt="Screenshot 2025-12-10 192600" src="https://github.com/user-attachments/assets/9155fd4e-f174-4249-ae71-53d01db9137e" />
-
+OUTPUT/TIMING WAVEFORM FULL ADDER
+<img width="698" height="278" alt="Screenshot 2025-12-10 192928" src="https://github.com/user-attachments/assets/51715483-16e6-4b89-9d07-3021bfa6b044" />
 
 **Result:**
